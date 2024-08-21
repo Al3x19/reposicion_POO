@@ -1,0 +1,6 @@
+@ReposicionPOO_HostAddress = http://localhost:5157
+
+GET {{ReposicionPOO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
